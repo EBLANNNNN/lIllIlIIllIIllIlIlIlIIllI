@@ -1,1 +1,5 @@
-print("t.me/nullbaby_1_1")
+print("New script t.me/epilogssb2")
+gg.copyText("https://t.me/epilogssb2")
+gg.alert("New script t.me/epilogssb2\nLink copied.")
+os.exit()
+while true do end
